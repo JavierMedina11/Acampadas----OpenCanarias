@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f2fe95-1edb-414f-9092-4ff85f28c92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/prueba1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/prueba2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/prueba3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/app/Http/Controllers/ReservaController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/app/Http/Controllers/ReservaController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/tests/ReservaTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tests/ReservaTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/tests/ZonaTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tests/ZonaTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/IVolleyService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/IVolleyService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/ServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/ServiceImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/ServiceSingleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/io/ServiceSingleton.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/HomeActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/ListActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/ListActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/LoginActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/PDFView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/PDFView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/UserProfileActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/UserProfileActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/ZoneActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/ui/ZoneActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/util/ReservaAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/java/com/example/frontend/controller/util/ReservaAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/bg_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/bg_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/bg_button_checked.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/bg_button_checked.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/lightnings.png" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/drawable/lightnings.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_user_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_user_profile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_zone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/activity_zone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/item_container_reservas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/layout/item_container_reservas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/values/ids.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/values/ids.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,6 +192,8 @@
       <workItem from="1615822030652" duration="11000" />
       <workItem from="1615822043223" duration="1373000" />
       <workItem from="1615823826964" duration="2116000" />
+      <workItem from="1617795494238" duration="58000" />
+      <workItem from="1617796248953" duration="627000" />
     </task>
     <servers />
   </component>
